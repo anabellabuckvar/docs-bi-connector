@@ -22,3 +22,9 @@ name = "snooty-cache-plugin"
 [[redirects]]
   from = "/v2.8/*"
   to = "/:splat"
+
+  
+[[redirects]]
+  from = "/*"
+  to = "/current/:splat"
+
