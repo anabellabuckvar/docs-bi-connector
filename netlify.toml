@@ -17,3 +17,8 @@ name = "snooty-cache-plugin"
 [context.dev]
   publish = "snooty/public"
   command = ". ./build.sh"
+
+
+[[redirects]]
+  from = "/v2.8/*"
+  to = "/:splat"
