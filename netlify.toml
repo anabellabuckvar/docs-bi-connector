@@ -33,6 +33,6 @@ name = "snooty-cache-plugin"
 
 
 [[redirects]]
-  from = "https://master--fork-bi-connector.netlify.app/hello/*"
-  to = "https://fork-bi-connector.netlify.app/tutorial/install-bi-connector-windows/"
+  from = "https://master--fork-bi-connector.netlify.app/hello/"
+  to = "https://fork-bi-connector.netlify.app/tutorial/install-bi-connector-macos/"
   status = 200
