@@ -27,4 +27,10 @@ name = "snooty-cache-plugin"
 [[redirects]]
   from = "/*"
   to = "/current/:splat"
+  force = true
+
+[[redirects]]
+  from = "/current/*"
+  to = "/:splat"
+  status = 200
 
