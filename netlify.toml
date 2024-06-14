@@ -34,5 +34,5 @@ name = "snooty-cache-plugin"
 
 [[redirects]]
   from = "https://master--fork-bi-connector.netlify.app/hello/*"
-  to = "https://www.mongodb.com/docs/"
+  to = ""https://master--fork-bi-connector.netlify.app/"
   status = 200
