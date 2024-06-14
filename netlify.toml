@@ -31,8 +31,8 @@ name = "snooty-cache-plugin"
   from = "/master/*"
   to = "/current/:splat"
 
-[[redirects]]
-  from = "/current/*"
-  to = "/:splat"
-  status = 200
 
+[[redirects]]
+  from = "/hello/*"
+  to = "/*"
+  status = 200
