@@ -33,6 +33,6 @@ name = "snooty-cache-plugin"
 
 
 [[redirects]]
-  from = "/hello/*"
+  from = "https://master--fork-bi-connector.netlify.app/hello/*"
   to = "https://master--fork-bi-connector.netlify.app/:splat"
   status = 200
