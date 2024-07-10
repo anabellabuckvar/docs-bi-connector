@@ -23,7 +23,6 @@ name = "snooty-cache-plugin"
   from = "/local-quickstart/"
   to = "/what-is-the-bi-connector/"
   status = 200
-  force = true
 
 [[redirects]]
   from = "/v2.9/*"
